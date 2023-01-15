@@ -116,3 +116,45 @@ main{
     font-weight: 700;
     font-size: 20px;
 }
+
+
+/* what i do */
+
+.what-i-do{
+    margin-top: 130px;
+}
+
+.what-i-do .section-paragraph{
+    padding: 30px 156px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skills{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+.skills-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin: 30px 0 20px 0;
+}
+.skills-description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+
+.section-paragraph{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+/* resume */
+
+.resume{
+    margin-top: 130px;
+}
