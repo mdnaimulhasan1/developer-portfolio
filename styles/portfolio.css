@@ -110,6 +110,8 @@ main{
     color: #757575;
     font-weight: 400;
     font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
 }
 .info-description{
     color: #474747;
@@ -157,4 +159,52 @@ main{
 
 .resume{
     margin-top: 130px;
+}
+.resume .section-heading{
+    margin-bottom: 110px;
+}
+.resume-container{
+    display: flex;
+}
+.resume-title{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: #474747;
+}
+
+.resume-section-title{
+    color: #474747;
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.resume-section-subtitle{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.resume-section-paragraph{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+.section1{
+    margin-right: 70px;
+    margin-bottom: 60px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 30px;
+}
+.section2{
+    margin-right: 70px;
+    margin-bottom: 60px;
+    padding-bottom: 30px;
+}
+
+.resume-button{
+    margin-top: 20px;
+    margin-bottom: 115px;
+    text-align: center;
 }
