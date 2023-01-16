@@ -208,3 +208,28 @@ main{
     margin-bottom: 115px;
     text-align: center;
 }
+
+/* lets connect styles */
+
+.connect{
+    display: flex;
+    gap: 100px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
+
+.connect .section-heading{
+    text-align: left;
+}
+
+.social-icons{
+    margin-right: 24px;
+    margin-top: 30px;
+}
+
+.lets-message-me input, textarea{
+    margin-bottom: 24px;
+    width: 100%;
+    padding: 18px 30px;
+    border: none;
+}
